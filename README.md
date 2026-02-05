@@ -1,25 +1,22 @@
-# AdventureWorks Sales Analytics Dashboard | Power BI & SQL
+# AdventureWorks Sales Analysis Dashboard | Power BI & SQL
 
 A complete **end-to-end Business Intelligence project** built on the **AdventureWorks dataset**, designed to provide a clear view of **Revenue, Profit, Orders, Returns, Customer Behavior, Product Performance, and Regional Trends**.
 
 This project includes:
 - **Power BI Dashboards** (Executive, Product, Customer, Map)
-- **SQL Queries** for KPI validation & analysis
+- **SQL Queries** (Joins, Aggregations, Subqueries)
 - **DAX Measures**
 - **Data Modeling + Cleaning + Transformation**
-- **Interactive filters, slicers, and drill insights**
+
 
 ---
 
 ##  Project Highlights
 
 - 📊 **Executive Summary Dashboard** for quick business decision-making  
-- 🛒 **Product Summary Dashboard** to analyze top products, subcategories & order trends  
+- 🌍 **Map Dashboard** to track sales/orders across countries and regions 
 - 👥 **Customer Summary Dashboard** to understand customer segments & profitability  
-- 🌍 **Map Dashboard** to track sales/orders across countries and regions  
-- 🧠 Strong focus on **data storytelling + professional UI design**
-
-
+-  🛒 **Product Summary Dashboard** to analyze top products, subcategories & order trends    
 
 
 ---
@@ -32,7 +29,7 @@ This project includes:
 - **Power Query**
 - **Data Modeling**
 - **Data Cleaning & Transformation**
-- **Business Intelligence Reporting**
+
 
 ---
 
@@ -98,7 +95,7 @@ This project is based on the **AdventureWorks sample dataset**, commonly used fo
 - DimProduct  
 - DimProductSubcategory  
 - DimProductCategory  
-- DimGeography  
+- DimTerritory 
 - Date Table (Calendar)  
 
 ---
