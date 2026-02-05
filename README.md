@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis Dashboard | Power BI & SQL
+# Adventure Works Sales Analysis Dashboard | Power BI & SQL
 
 A complete **end-to-end Business Intelligence project** built on the **AdventureWorks dataset**, designed to provide a clear view of **Revenue, Profit, Orders, Returns, Customer Behavior, Product Performance, and Regional Trends**.
 
