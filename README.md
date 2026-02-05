@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analytics Dashboard | Power BI & SQL
+<img width="1090" height="608" alt="Adventure Work 2" src="https://github.com/user-attachments/assets/19c54368-3c4e-4c13-811b-7c83ce159cb3" /># AdventureWorks Sales Analytics Dashboard | Power BI & SQL
 
 A complete **end-to-end Business Intelligence project** built on the **AdventureWorks dataset**, designed to provide a clear view of **Revenue, Profit, Orders, Returns, Customer Behavior, Product Performance, and Regional Trends**.
 
@@ -18,6 +18,7 @@ This project includes:
 - 👥 **Customer Summary Dashboard** to understand customer segments & profitability  
 - 🌍 **Map Dashboard** to track sales/orders across countries and regions  
 - 🧠 Strong focus on **data storytelling + professional UI design**
+
 
 
 
@@ -78,7 +79,8 @@ This project includes:
 
 ##  Dashboard Preview
 <img width="1061" height="616" alt="Adventure Work 1" src="https://github.com/user-attachments/assets/10bfaf2a-0902-44b1-9025-0cacee4b6650" />
-![Adventure Work 2](https://github.com/user-attachments/assets/6000e0a1-4017-4f34-88a1-79ab461939a4)
+![Uploading Adventure Work 2.png…]()
+
 <img width="1064" height="604" alt="Adventure Work 3" src="https://github.com/user-attachments/assets/c7bbbe13-d63b-407d-8810-00e20721e025" />
 <img width="1059" height="596" alt="Adventure Work 4" src="https://github.com/user-attachments/assets/ff5367aa-3e44-4e9a-809f-2b73fbaa24c0" />
 
